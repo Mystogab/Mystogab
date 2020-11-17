@@ -12,10 +12,10 @@ I'm a backend software developer, with cloud based architectures who have a lovi
 
 - 👯 I’m looking to collaborate on some open source projects or GNU/Linux video content
 
-- 💬 Ask me about NodeJS on backend oriented side, with Typescript (learning a bit more every day)
+- 💬 Ask me about NodeJS on backend oriented side, with Typescript (learning a bit more every day) any question about JS I've worked with frameworks like: express, serverless (aws lambda), firebase (cloud functions), Restify.
 
 - 📫 How to reach me: You can reach me on the links above!
 
-- 😄 Pronouns: Mr, and for an old friends of mine, just 'The Doctor firend's'
+- 😄 Pronouns: Mr, and for an old friend of mine, just "The Doctor friend's"
 
 - ⚡ Fun fact: I really enjoy choir singing, ha! You weren't expecting it right?
